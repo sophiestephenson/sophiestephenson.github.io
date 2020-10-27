@@ -2,7 +2,7 @@
 
 {%- assign _excerpt_type = include.excerpt_type -%}
 
-{% assign _category = include.category %}
+{%- assign _category = include.category -%}
 
 {%- include snippets/get-locale-string.html key='READMORE' -%}
 {%- assign _locale_readmore = __return -%}
