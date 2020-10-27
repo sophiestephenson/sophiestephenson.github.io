@@ -8,20 +8,20 @@
 {%- for post in site.posts -%}
   {%- if post.category == _category -%}
     {%- assign _num_posts = _num_posts | plus: 1 -%}
-    {%- assign ttags = post.tags | join:'|' | append:'|' -%}
+    {%- assign ttags = post.tags | join: '|' | append: '|' -%}
     {%- assign rawtags = rawtags | append:ttags -%}
   {%- endif -%}
 {%- endfor -%}
-{%- assign rawtags = rawtags | split:'|' | sort -%}
+{%- assign rawtags = rawtags | split: '|' | sort -%}
 
 {%- assign _tags = "" -%}
 {%- for tag in rawtags -%}
   {%- if tag != "" -%}
     {%- if _tags == "" -%}
-      {%- assign _tags = tag | split:'|' -%}
+      {%- assign _tags = tag -%}
     {%- endif -%}
     {%- unless _tags contains tag -%}
-      {%- assign _tags = _tags | join:'|' | append:'|' | append:tag | split:'|' -%}
+      {%- assign _tags = _tags | join: '|' | append: '|' | append: tag | split: '|' -%}
     {%- endunless -%}
   {%- endif -%}
 {%- endfor -%}
