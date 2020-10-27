@@ -1,4 +1,18 @@
 header:
+  - titles:  
+      en      : &EN       CV
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      fr      : &FR       CV
+      fr-BE   : *FR
+      fr-CA   : *FR
+      fr-CH   : *FR
+      fr-FR   : *FR
+      fr-LU   : *FR
+    url: /cv.html
+    
   - titles:
       # @start locale config
       en      : &EN       Archive
