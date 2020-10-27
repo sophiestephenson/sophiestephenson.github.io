@@ -4,12 +4,21 @@ title: CV
 key: page-cv
 ---
 
-# Education
+### Education
 
-# Experience
+Master of Science, Computer Science
+*University of Wisconsin -- Madison, expected May 2022*
 
-# Coursework
+Bachelor of Arts, Mathematics (Computer Science minor)
+*Vassar College, May 2020*
 
-# Skills
+Study Abroad Program
+*University of St Andrews, Fall 2018*
 
-# References
+### Experience
+
+### Coursework
+
+### Skills
+
+### References
