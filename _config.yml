@@ -67,14 +67,6 @@ paths:
   archive : # "/archive.html" (default)
   rss     : # "/feed.xml" (default)
   
-  
-## => Collections
-##############################
-collections: 
-  - projects
-  - posts
-  - for_fun
-  
 
 ## => Post
 ##############################
