@@ -1,7 +1,29 @@
 {%- assign _tag_max_size = 1 -%}
 {%- assign _tag_min_size = 1 -%}
 {%- assign _tag_cur_size = 1 -%}
-{%- assign _tags = site.tags | sort -%}
+{%- assign _category = include.category -%}
+
+{% assign rawtags = "" %}
+{% for post in site.posts %}
+  {% if post.category == _category %}
+    {% assign ttags = post.tags | join:'|' | append:'|' %}
+    {% assign rawtags = rawtags | append:ttags %}
+  {% endif %}
+{% endfor %}
+{%- assign rawtags = rawtags | split:'|' | sort -%}
+
+{% assign tags = "" %}
+{% for tag in rawtags %}
+  {% if tag != "" %}
+    {% if tags == "" %}
+      {% assign tags = tag | split:'|' %}
+    {% endif %}
+    {% unless tags contains tag %}
+      {% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
+    {% endunless %}
+  {% endif %}
+{% endfor %}
+
 {%- for _tag in _tags -%}
   {%- assign _tag_cur_size = _tag[1].size -%}
   {%- if _tag_cur_size > _tag_max_size -%}
