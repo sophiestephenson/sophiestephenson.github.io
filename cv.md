@@ -4,14 +4,13 @@ title: CV
 key: page-cv
 ---
 
-### Experience
+## Experience
 
 **Computer Science Teaching Assistant**, University of Wisconsin -- Madison `Aug. 2020 - present`
 
-
 **Software Developer Intern**, Epic Systems Corporation `Summer 2019 & 2020`
 
-### Education
+## Education
 
 **Master of Science, Computer Science**, University of Wisconsin -- Madison `Expected May 2022`
 
@@ -19,8 +18,18 @@ key: page-cv
 
 **Study Abroad Program**, University of St Andrews `Fall 2018`
 
-### Coursework
+## Skills
 
-### Skills
+## Projects
 
-### References
+### Languages
+
+### Tools and Frameworks
+
+## Coursework
+
+### Computer Science
+
+### Mathematics
+
+## References
