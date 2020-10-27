@@ -13,18 +13,7 @@
   {%- endif -%}
 {%- endfor -%}
 {%- assign rawtags = rawtags | split: '|' | sort -%}
-
-{% assign _tags = "" %}
-{% for tag in rawtags %}
-  {% if tag != "" %}
-    {% if _tags == "" %}
-      {% assign _tags = tag | split:'|' %}
-    {% endif %}
-    {% unless tags contains tag %}
-      {% assign _tags = _tags | join:'|' | append:'|' | append:tag | split:'|' %}
-    {% endunless %}
-  {% endif %}
-{% endfor %}
+{% assign _tags = rawtags | uniq -%}
 
 <div class="site-tags js-tags">
   <ul class="menu">
