@@ -1,6 +1,7 @@
 ---
 title: Post with Header Image
 tags: TeXt CSS
+category: project
 article_header:
   type: cover
   image:
