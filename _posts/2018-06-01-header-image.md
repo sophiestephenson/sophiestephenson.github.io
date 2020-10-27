@@ -1,6 +1,6 @@
 ---
 title: Post with Header Image
-tags: TeXt, CSS
+tags: TeXt CSS
 article_header:
   type: cover
   image:
