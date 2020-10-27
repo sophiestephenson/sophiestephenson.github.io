@@ -15,14 +15,16 @@
 {%- assign rawtags = rawtags | split: '|' | sort -%}
 
 {%- assign _tags = "" -%}
-{%- for tag in rawtags -%}
-  {%- if tag != "" -%}
-    {%- if _tags == "" -%}
-      {%- assign _tags = tag -%}
+{%- for tag in site.tags -%}
+  {%- if rawtags contains tag[0] -%}
+    {%- if tag[0] != "" -%}
+      {%- if _tags == "" -%}
+        {%- assign _tags = tag | split:'|' -%}
+      {%- endif -%}
+      {%- unless _tags contains tag -%}
+        {%- assign _tags = tags | join:'|' | append:'|' | append:tag | split:'|' -%}
+      {%- endunless -%}
     {%- endif -%}
-    {%- unless _tags contains tag -%}
-      {%- assign _tags = _tags | join: '|' | append: '|' | append: tag | split: '|' -%}
-    {%- endunless -%}
   {%- endif -%}
 {%- endfor -%}
 
