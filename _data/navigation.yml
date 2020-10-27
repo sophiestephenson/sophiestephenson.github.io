@@ -1,5 +1,6 @@
 header:
   - titles:  
+      # @start locale config
       en      : &EN       CV
       en-GB   : *EN
       en-US   : *EN
@@ -11,6 +12,7 @@ header:
       fr-CH   : *FR
       fr-FR   : *FR
       fr-LU   : *FR
+      # @end locale config
     url: /cv.html
     
   - titles:
