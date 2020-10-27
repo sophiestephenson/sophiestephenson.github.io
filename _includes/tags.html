@@ -2,10 +2,12 @@
 {%- assign _tag_min_size = 1 -%}
 {%- assign _tag_cur_size = 1 -%}
 {%- assign _category = include.category -%}
+{%- assign _num_posts = 0 -%}
 
 {% assign rawtags = "" %}
 {% for post in site.posts %}
   {% if post.category == _category %}
+    {% assign _num_posts = _num_posts | plus: 1 %}
     {% assign ttags = post.tags | join:'|' | append:'|' %}
     {% assign rawtags = rawtags | append:ttags %}
   {% endif %}
@@ -41,7 +43,7 @@
   <ul class="menu">
     <li>
       <button type="button" class="button button--secondary button--pill tag-button tag-button--all" data-encode="">
-        Show All<div class="tag-button__count">{{ site.posts | size }}</div>
+        Show All<div class="tag-button__count">{{ _num_posts }}</div>
       </button>
     </li>
     {%- for _tag in _tags -%}
