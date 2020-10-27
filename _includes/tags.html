@@ -14,14 +14,14 @@
 {% endfor %}
 {%- assign rawtags = rawtags | split:'|' | sort -%}
 
-{% assign tags = "" %}
+{% assign _tags = "" %}
 {% for tag in rawtags %}
   {% if tag != "" %}
-    {% if tags == "" %}
-      {% assign tags = tag | split:'|' %}
+    {% if _tags == "" %}
+      {% assign _tags = tag | split:'|' %}
     {% endif %}
-    {% unless tags contains tag %}
-      {% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
+    {% unless _tags contains tag %}
+      {% assign _tags = _tags | join:'|' | append:'|' | append:tag | split:'|' %}
     {% endunless %}
   {% endif %}
 {% endfor %}
