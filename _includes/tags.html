@@ -14,7 +14,7 @@
 {%- endfor -%}
 {%- assign rawtags = rawtags | split: '|' | sort -%}
 
-{%- assign _tags = site.tags | where: rawtags contains tag -%}
+{%- assign _tags = site.tags -%}
 
 {%- for _tag in _tags -%}
   {%- assign _tag_cur_size = _tag[1].size -%}
