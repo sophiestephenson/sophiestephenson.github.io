@@ -2,11 +2,12 @@
 title: Time Spent on Duolingo - Python Script
 category: project
 tags: python scripting fun
+mode: immersive
+header: 
+  theme: light
 article_header:
-  type: overlay
-  theme: dark
-  background_color: '#24c19'
-  background_image:
+  type: cover
+  image:
     src: /images/duolingo-header.jpg
 ---
 
@@ -22,7 +23,7 @@ Using these emails, we can approximate the time a user has spent on Duolingo. Fo
 
 It's a rough estimate, but is still very informative - I found out that I've spent over 18 hours on Duolingo, enough to fully complete the Scottish Gaelic skills tree!
 
-I had a good time with this short project, and I encourage you to go check out the [GitHub repository](https://gitlab.com/my-projects-sophiestephenson/personal/time-spent-on-duolingo-script.git) if you're interested in the script, or if you want to use it yourself. Instructions are in the repository.
+I had a good time with this short project, and I encourage you to go check out the [GitHub repository](https://gitlab.com/my-projects-sophiestephenson/personal/time-spent-on-duolingo-script.git) if you're interested in the script or if you want to use it yourself. Instructions are in the repository.
 
 Thanks for reading! Tioraidh an-dràsta fhèin!
 

@@ -1,7 +1,7 @@
 ---
 title: First For Fun Post
 category: fun
-tags: Gaelic 
+tags: gaelic 
 ---
 
 Something about Gaelic!!!!
