@@ -4,7 +4,7 @@ title: Sophie Stephenson
 key: page-cv
 ---
 
-[GitHub](https://github.com/sophiestephenson) | | [GitLab](https://gitlab.com/my-projects-sophiestephenson) | |  [LinkedIn](https://www.linkedin.com/in/sophie-stephenson-b22690156/) | | [Email](sophia.r.stephenson@gmail.com)
+[GitHub](https://github.com/sophiestephenson) | [GitLab](https://gitlab.com/my-projects-sophiestephenson) |  [LinkedIn](https://www.linkedin.com/in/sophie-stephenson-b22690156/) | [Email](sophia.r.stephenson@gmail.com)
 
 ## Relevant Experience
 
