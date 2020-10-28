@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Sophie Stephenson
+title: CV
 key: page-cv
 ---
 
