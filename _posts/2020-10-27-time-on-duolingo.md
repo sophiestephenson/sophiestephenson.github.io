@@ -3,7 +3,7 @@ title: Time Spent on Duolingo - Python Script
 category: project
 tags: Python Scripting Fun
 article_header:
-  type: cover
+  type: overlay
   image:
     src: /images/duolingo-header.jpg
 ---
