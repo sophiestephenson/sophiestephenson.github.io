@@ -10,7 +10,7 @@ Since November 2019, I have been learning Scottish Gaelic on Duolingo. I became 
 
 Duolingo doesn't keep track of the hours each user has spent on the app. However, it does send out weekly progress report emails to frequent users. These emails include some stats about what the user has learned that week. An example is below.
 
-![Image](/images/duolingo-progress-report.png){:width=50%}
+![Image](/images/duolingo-progress-report.png){:width="60%"}
 
 Using these emails, we can approximate the time a user has spent on Duolingo. My script uses Python's `imap_tools` and `html` packages to read and parse these emails. First, we log into the mailbox using creds stored in a `.yaml` file. Then, we look through all folders and make a list of all messages from Duolingo with the subject "Your weekly progress report".
 
