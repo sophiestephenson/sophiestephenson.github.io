@@ -6,7 +6,7 @@ tags: ctf reverse-engineering
 
 This weekend, I participated in my first ever CTF, [MetaCTF](https://metactf.com) with a couple of friends from Vassar, Ian and Celia. It was a 24-hour, jeopardy-style competition geared towards beginners - which was good, since all of us were new to the CTF scene. Anyone else who went might be haunted by this image:
 
-![Image](/images/metactf-library.png){width="40%"}
+![Image](/images/metactf-library.png){:width="40%"}
 
 The hours we spent on Google Earth looking at Hammond, Indiana... But anyway, despite our beginner status, my team (GoForTheGlold) ended up getting **35th place** out of over 1000 student teams! Beyond that, we all agreed it was the most fun we'd had in a very long time. We will definitely be doing more.
 
@@ -14,7 +14,7 @@ One of the problems we spent the most time on was "Password Here Please", a reve
 
 <!--more-->
 
-## Password Here Please: Writeup
+## Password Here Please
 
 It was a fairly simple problem: given a file with the function ValidatePassword(), can you figure out what the password is? [Here's the file we're working with.](https://metaproblems.com//ade32afaed444c12d063afd64fafd28b/validation.py) Essentially, the function could be boiled down to 4 steps. 
 
