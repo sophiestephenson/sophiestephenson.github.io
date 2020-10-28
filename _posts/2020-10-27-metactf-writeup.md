@@ -12,7 +12,7 @@ The hours we spent on Google Earth looking at Hammond, Indiana... But anyway, de
 
 One of the problems we spent the most time on was "Password Here Please", a reverse engineering problem. My writeup of the problem is below.
 
-<!--more-->
+___
 
 ## Password Here Please
 
@@ -115,7 +115,7 @@ code = [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
 
 The final password is "r3verS!ng_pyThOn_fOr_FUn".
 
-<!--more-->
+___
 
 I hope this writeup was helpful. I can't tell you how satisfying it was when, at 1:30am, we finally found the base 257 representation of `code` and everything became clear. Bliss. 
 
