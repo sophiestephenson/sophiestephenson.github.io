@@ -6,6 +6,16 @@ key: page-cv
 
 [GitHub](https://github.com/sophiestephenson) | [GitLab](https://gitlab.com/my-projects-sophiestephenson) |  [LinkedIn](https://www.linkedin.com/in/sophie-stephenson-b22690156/) | <sophia.r.stephenson@gmail.com>
 
+## Education
+
+**Master of Science, Computer Science**, University of Wisconsin -- Madison `Expected May 2022`
+
+**Bachelor of Arts, Mathematics (Computer Science minor)**, Vassar College `May 2020`
+- Phi Beta Kappa, general honors, Mathematics department honors, 3.95/4.0 overall GPA
+
+**Study Abroad Program**, University of St Andrews `Fall 2018`
+
+
 ## Relevant Experience
 
 **Teaching Assistant**, University of Wisconsin -- Madison `Aug. 2020 - present`
@@ -18,14 +28,6 @@ key: page-cv
 
 **Mathematics Instructor**, Mathnasium `May - Aug. 2017`
 
-## Education
-
-**Master of Science, Computer Science**, University of Wisconsin -- Madison `Expected May 2022`
-
-**Bachelor of Arts, Mathematics (Computer Science minor)**, Vassar College `May 2020`
-- Phi Beta Kappa, general honors, Mathematics department honors, 3.95/4.0 overall GPA
-
-**Study Abroad Program**, University of St Andrews `Fall 2018`
 
 ## Skills
 
