@@ -4,7 +4,8 @@ category: project
 tags: Python Scripting Fun
 article_header:
   type: overlay
-  image:
+  theme: dark
+  background-image:
     src: /images/duolingo-header.jpg
 ---
 
