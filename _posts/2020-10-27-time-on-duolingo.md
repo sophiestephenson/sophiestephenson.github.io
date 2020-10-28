@@ -2,6 +2,9 @@
 title: Time Spent on Duolingo - Python Script
 category: project
 tags: python scripting fun
+mode: immersive
+header:
+  theme: light
 article_header:
   type: cover
   image:
