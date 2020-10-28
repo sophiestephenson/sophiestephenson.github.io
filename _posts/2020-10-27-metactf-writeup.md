@@ -4,7 +4,7 @@ category: post
 tags: ctf reverse-engineering
 ---
 
-This weekend, I participated in my first ever CTF, [MetaCTF](https://metactf.com) with a couple of friends from Vassar, Ian and Celia. It was a 24-hour, jeopardy-style competition geared towards beginners - which was good, since all of us were new to the CTF scene. Anyone else who went might be haunted by this image:
+This weekend, I participated in my first ever CTF, [MetaCTF](https://metactf.com), with a couple of friends from Vassar, Ian and Celia. It was a 24-hour, jeopardy-style competition geared towards beginners - which was good, since all of us were new to the CTF scene. Anyone else who went might be haunted by this image:
 
 ![Image](/images/metactf-library.png){:width="40%"}
 
@@ -99,12 +99,6 @@ code = (257 ** x0) + 2(257 ** x1) + 4(257 ** x2) + . . . + 128(257 ** x7)
 where each x[n] is the value `(ord(chunk3[n]) - 0x28))`. Looking at this equation, we clearly see the number could be written as a value in base 257 - that's the next step we need to take.
 
 To write `code` in base 257, we decided to write a script. We found the highest power of 257 that was still smaller than `code` (257 ^ 74) and made an array of length 75. Each index in the array would represent a power of 257, and we would fill in that index with the multiplier of each power. After running this program, we got this array for `code` in base 257:
-
-"_fOr_fUn"
-
-95 102 79 114 95  70 85 110
-55  62 39  74 55  30 45  70
-1   2   4   8 16  32 64  128
 
 ```
 code = [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
