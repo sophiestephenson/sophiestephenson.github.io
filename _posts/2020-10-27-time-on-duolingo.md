@@ -2,13 +2,6 @@
 title: Time Spent on Duolingo - Python Script
 category: project
 tags: python scripting fun
-mode: immersive
-header:
-  theme: light
-article_header:
-  type: cover
-  image:
-    src: /images/duolingo-header.jpg
 ---
 
 Since November 2019, I have been learning Scottish Gaelic on Duolingo. I became interested in the language when I studied abroad in Scotland, but didn't decide to start learning it until I started watching [Outlander](https://www.imdb.com/title/tt3006802/). Earlier this year, I tried to find out how many hours I'd spent on Duolingo, but could not find that number anywhere. That's when I decided to write [this script](https://gitlab.com/my-projects-sophiestephenson/personal/time-spent-on-duolingo-script) to figure it out.
@@ -66,7 +59,7 @@ for msg in msgs:
 
 At the end, we get the total time spent on Duolingo, as reported by these weekly emails. It's a rough estimate, but is still very informative - I found out that I've spent over 18 hours on Duolingo, enough to fully complete the Scottish Gaelic skills tree!
 
-I had a good time with this short project, and I encourage you to go check out the [GitHub repository](https://gitlab.com/my-projects-sophiestephenson/personal/time-spent-on-duolingo-script.git) if you're interested in the script or if you want to use it yourself. Instructions are in the repository.
+I had a good time with this short project, and I encourage you to go check out the [GitLab repository](https://gitlab.com/my-projects-sophiestephenson/personal/time-spent-on-duolingo-script.git) if you're interested in the script or if you want to use it yourself. Instructions are in the repository.
 
 Thanks for reading! Tioraidh an-dràsta fhèin!
 
