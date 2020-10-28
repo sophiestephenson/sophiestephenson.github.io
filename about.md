@@ -26,6 +26,6 @@ titles:
 key: page-about
 ---
 
-![Image](./headshot_square.jpeg){:width="128px" height="128px"}
+![Image](./headshot_square.jpeg){:width="200px" height="200px"}
 
 Hello! I am a computer science grad student at the University of Wisconsin Madison. My CS interests are in security, AR/VR, ambient technologies, human-centered computing, and responsible computing. Outside of coding, I like to travel (when there isn't a pandemic), hike, learn Scottish Gaelic, cook, and play and listen to music. Thanks for visiting my site!
