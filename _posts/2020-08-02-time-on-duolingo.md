@@ -62,3 +62,5 @@ At the end, we get the total time spent on Duolingo, as reported by these weekly
 I had a good time with this short project, and I encourage you to go check out the [GitLab repository](https://gitlab.com/my-projects-sophiestephenson/personal/time-spent-on-duolingo-script.git) if you're interested in the script or if you want to use it yourself. Instructions are in the repository.
 
 Thanks for reading! Tioraidh an-dràsta fhèin!
+
+_(This post was written in October 2020, when I first created this website - however, I've dated it to when the project was finished, August 2020.)_
