@@ -101,7 +101,6 @@
     }
 
     var query = queryString(), _tag = query.tag;
-	init(); 
 	tagSelect(_tag);
     $tags.on('click', 'button', function() {
       tagSelect($(this).data('encode'), $(this));
