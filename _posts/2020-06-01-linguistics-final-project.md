@@ -1,5 +1,5 @@
 ---
-title: COVID-19 and Climate -- Computation Linguistics Final Project
+title: COVID-19 and Climate - Computation Linguistics Final Project
 category: project
 tags: nlp python twitter-api research machine-learning
 ---
