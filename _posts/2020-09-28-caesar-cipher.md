@@ -8,7 +8,7 @@ If you're remotely familiar with cryptography, you've probably heard of a Caesar
 
 First, the sender and recipient agree on a shift number _n_. Then, the sender encrypts the message by shifting each character in the message _n_ times, usually to the right. For example, if _n_ = 4, the character A would become E, B would become F, and so on. We can think of it as a decoder ring, as shown below -- if we start by aligning the rings, we can rotate the top ring clockwise by _n_ letters and we obtain the shifted version of each character for that _n_.
 
-![Image](/assets/images/caesar-cipher.png){:width="70%"}
+![Image](/assets/images/caesar-cipher.png){:width="50%"}
 
 To decode the message, the recipient simply needs to do a _left_ shift of the ciphertext to get the original message. 
 
