@@ -47,22 +47,6 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /archive.html
-    
-  - titles:  
-      # @start locale config
-      en      : &EN       For Fun
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      fr      : &FR       Pour le Plaisir
-      fr-BE   : *FR
-      fr-CA   : *FR
-      fr-CH   : *FR
-      fr-FR   : *FR
-      fr-LU   : *FR
-      # @end locale config
-    url: /fun.html
 
   - titles:
       # @start locale config
