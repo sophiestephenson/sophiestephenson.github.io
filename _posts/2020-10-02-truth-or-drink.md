@@ -9,9 +9,9 @@ Have you ever been in a YouTube black hole and stumbled upon one of these videos
 
 Not only are the videos hilarious, but the game is also available for purchase! It's called [Truth or Drink](https://www.playtruthordrink.com/) and it's a raunchy card game that helps you get to know your friends (or whoever you choose to play with). 
 
-I decided to buy the game a bit ago, and opted for the $7 PDF version instead of the $35 set of physical cards. However, this made game play a bit artificial - we didn't want to print all the cards (and I don't own a printer), so instead we each took turns choosing cards from the PDF. There wasn't really randomness involved, and it wasn't as fun.
+I decided to buy the game a bit ago, and opted for the $7 PDF version instead of the $35 set of physical cards. However, this made game play a bit artificial -- we didn't want to print all the cards (and I don't own a printer), so instead we each took turns choosing cards from the PDF. There wasn't really randomness involved, and it wasn't as fun.
 
-That's where [this project](https://gitlab.com/my-projects-sophiestephenson/personal/truth-or-drink) comes in - I whipped up a terminal version of Truth or Drink that would randomly generate cards as if we were picking them from a physical deck.
+That's where [this project](https://gitlab.com/my-projects-sophiestephenson/personal/truth-or-drink) comes in. I whipped up a terminal version of Truth or Drink that would randomly generate cards as if we were picking them from a physical deck.
 
 _________
 
