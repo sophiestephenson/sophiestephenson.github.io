@@ -1,7 +1,7 @@
 ---
 title: Truth or Drink (Terminal Version)
 category: project
-tags: fun python csv game
+tags: python csv game
 ---
 
 Have you ever been in a YouTube black hole and stumbled upon one of these videos?

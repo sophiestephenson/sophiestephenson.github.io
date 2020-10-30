@@ -1,7 +1,7 @@
 ---
 title: Time Spent on Duolingo Script
 category: project
-tags: python fun
+tags: python
 ---
 
 Since November 2019, I have been learning Scottish Gaelic on Duolingo. I became interested in the language when I studied abroad in Scotland, but didn't decide to start learning it until I started watching [Outlander](https://www.imdb.com/title/tt3006802/). Earlier this year, I tried to find out how many hours I'd spent on Duolingo, but could not find that number anywhere. That's when I decided to write [this script](https://gitlab.com/my-projects-sophiestephenson/personal/time-spent-on-duolingo-script) to figure it out.
