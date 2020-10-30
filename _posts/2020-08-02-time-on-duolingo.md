@@ -63,4 +63,4 @@ I had a good time with this short project, and I encourage you to go check out t
 
 Thanks for reading! Tioraidh an-dràsta fhèin!
 
-_(This post was written in October 2020, when I first created this website - however, I've dated it to when the project was finished, August 2020.)_
+_(This post was written in October 2020, when I first created this website. However, I've dated it to when the project was finished: August 2020.)_

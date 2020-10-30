@@ -31,4 +31,4 @@ The project lives in [this GitLab repository](https://gitlab.com/my-projects-sop
 
 Thanks for reading! Let me know if you use my little program, I'd love to hear that it brought someone else joy, too.
 
-_(This post was written in late October 2020, when I first created this website - however, I've dated it to when the project was finished: October 2, 2020.)_
+_(This post was written in late October 2020, when I first created this website. However, I've dated it to when the project was finished: October 2, 2020.)_
