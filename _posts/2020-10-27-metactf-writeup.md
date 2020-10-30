@@ -1,5 +1,5 @@
 ---
-title: MetaCTF: Reflections & Writeup
+title: MetaCTF Reflections & Writeup
 category: post
 tags: ctf reverse-engineering
 ---
