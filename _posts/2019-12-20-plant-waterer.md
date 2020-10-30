@@ -10,7 +10,7 @@ Well, if you're like me, you make an automatic plant waterer.
 
 ___
 
-![Image](/assets/images/spider-plant.jpg){:width="40%"}
+![Image](/assets/images/spider-plant.jpg){:width="70%"}
 
 This is my spider plant, Carlotta. As of this writing (October 2020), I've become quite a plant mom, but in December 2019 she was my only plant child, and I was desperate to keep her alive. (Little did I know that a few months later, a certain virus would prevent me from returning from spring break, and Carlotta would somehow survive 3 months with no automatic plant watering whatsoever.) 
 
