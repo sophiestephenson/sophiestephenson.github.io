@@ -11,6 +11,10 @@ Since the project started around the same time that COVID-19 was getting bad in 
 - If we can make such swift, global change in response to COVID-19, can we do the same for climate change?
 - Will the pandemic allow the planet to "heal" as humans stay mostly inside and emissions plateau?
 
+For example:
+
+[twitter class="tweet" href="https://twitter.com/joshgad/status/1240658004279611392?s=20" text="tweet by @joshgad"]
+
 I decided I would use my project to investigate whether these new topics reflect an overall shift in the way we talk about climate change as a result of COVID-19.
 
 My results weren't extremely conclusive, and I don't believe I had nearly enough climate-related tweets to work with in the first place; however, going through the project was valuable in itself, and I learned a ton about working with tweets, using machine learning, data analysis, and much more. I used a bunch of new tools and libraries, including `scikit-learn`, `matplotlib`, `Tweepy`, Twitter API, `nltk`, and Jupyter Notebook. 
