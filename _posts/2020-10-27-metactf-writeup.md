@@ -6,7 +6,7 @@ tags: ctf reverse-engineering
 
 This weekend, I participated in my first ever CTF, [MetaCTF](https://metactf.com), with a couple of friends from Vassar, Ian and Celia. It was a 24-hour, jeopardy-style competition geared towards beginners - which was good, since all of us were new to the CTF scene. Anyone else who went might be haunted by this image:
 
-![Image](./assets/images/metactf-library.png){:width="70%"}
+![Image](/assets/images/metactf-library.png){:width="70%"}
 
 The hours we spent on Google Earth looking at Hammond, Indiana... But anyway, despite our beginner status, my team (GoForTheGlold) ended up getting **35th place** out of over 1000 student teams! Beyond that, we all agreed it was the most fun we'd had in a very long time. We will definitely be doing more.
 
