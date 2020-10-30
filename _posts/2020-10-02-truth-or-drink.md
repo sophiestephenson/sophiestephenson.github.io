@@ -17,7 +17,7 @@ _________
 
 Most Truth or Drink cards have two questions on them. An example card is below.
 
-![Image](/assets/images/truth-or-drink-card.png){:width="30%"})
+![Image](/assets/images/truth-or-drink-card.png){:width="30%"}
 
 There are some cards with one question, but I decided to ignore them because I don't love to play with those cards anyway. The cards also come in a few flavors: On The Rocks (classic), Extra Dirty (NSFW), Happy Hour (feel-good), Last Call (nothing to lose). Generally, you choose one of those types and only play with that deck. The only ones I ever play are On The Rocks and Extra Dirty, so those are the only ones I dealt with in this project.
 
