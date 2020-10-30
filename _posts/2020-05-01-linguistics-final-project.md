@@ -1,7 +1,7 @@
 ---
 title: COVID-19 and Climate - Computation Linguistics Final Project
 category: project
-tags: nlp python twitter-api research machine-learning
+tags: nlp python twitter-api research machine-learning school 
 ---
 
 In Spring 2020, during my last semester at Vassar, I took CMPU366: Computational Linguistics. The class went over various tools and machine learning techniques used in natural language processing (NLP), and it culminated in a final months-long project where we would get to use the tools we'd learned about. 
