@@ -4,7 +4,7 @@ category: post
 tags: ctf reverse-engineering
 ---
 
-This weekend, I participated in my first ever CTF, [MetaCTF](https://metactf.com), with a couple of friends from Vassar, Ian and Celia. It was a 24-hour, jeopardy-style competition geared towards beginners - which was good, since all of us were new to the CTF scene. Anyone else who went might be haunted by this image:
+This weekend, I participated in my first ever CTF, [MetaCTF](https://metactf.com), with a couple of friends from Vassar, Ian and Celia. It was a 24-hour, jeopardy-style competition geared towards beginners -- which was good, since all of us were new to the CTF scene. Anyone else who went might be haunted by this image:
 
 ![Image](/assets/images/metactf-library.png){:width="70%"}
 
