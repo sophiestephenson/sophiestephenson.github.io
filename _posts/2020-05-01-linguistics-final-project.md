@@ -13,7 +13,7 @@ Since the project started around the same time that COVID-19 was getting bad in 
 
 For example:
 
-[twitter class="tweet" href="https://twitter.com/joshgad/status/1240658004279611392?s=20" text="tweet by @joshgad"]
+<iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="" title="Twitter Tweet" src="https://twitter.com/joshgad/status/1240658004279611392?s=20" data-tweet-id="1240658004279611392" style="position: static; visibility: visible; width: 550px; height: 197px; display: block; flex-grow: 1;"></iframe>
 
 I decided I would use my project to investigate whether these new topics reflect an overall shift in the way we talk about climate change as a result of COVID-19.
 
