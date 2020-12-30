@@ -1,5 +1,5 @@
 ---
-title: Ceasar Cipher Encoder / Decoder
+title: Caesar Cipher Encoder / Decoder
 category: project
 tags: python cryptography infosec
 ---
